@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "╭────────────────────────────╮"
-echo "│   ⚙️ Created by Aditya’s   │"
+echo "│    ⚙️ Created by Aditya    │"
 echo "╰────────────────────────────╯"
 
 if [ "$(id -u)" -eq 0 ]; then
